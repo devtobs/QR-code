@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Link
 
-- Live Site URL: [livesite](https://devtobs.github.io/QR-code/)
+- Live Site URL: [qr-code](https://devtobs.github.io/QR-code/)
 
 ### Built with
 
@@ -18,6 +18,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Github - [Tolu](https://github.com/devtobs)
+- Github - [@devtobs](https://github.com/devtobs)
 - Frontend Mentor - [@devtobs](https://www.frontendmentor.io/profile/@devtobs)
 - Twitter - [@tobsthecoder](https://www.twitter.com/tobsthecoder)
