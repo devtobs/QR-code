@@ -4,11 +4,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot of project
 
-![QR-code pic](./images/screenshot.jpg)
+![QR-code pic](./images/screenshot.png)
 
-### Links
+### Link
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [livesite](https://devtobs.github.io/QR-code/)
 
 ### Built with
 
